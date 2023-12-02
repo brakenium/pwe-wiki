@@ -1,0 +1,16 @@
+{
+  "name": "vcbc-wiki",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.32",
+    "discord.js": "^14.14.1",
+    "yargs": "^17.7.2"
+  }
+}
