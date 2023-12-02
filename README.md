@@ -48,4 +48,5 @@ you will need to add it to your server. You will also need the server's guild ID
 Finally you will be able to run the script using
 `bun run wiki_to_discord.ts --discordtoken <discord bot token> --guildId <guildId>`.
 You can also install `act` to run the script locally using GitHub Actions.
-To do this you will need to provide act your discord bot token as a secret.
+To do this you will need to provide act your discord bot token as the `DISCORD_TOKEN`
+secret.
