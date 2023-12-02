@@ -11,8 +11,6 @@ name: Deploy to discord using Node.js
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
   workflow_dispatch:
 
 permissions:
