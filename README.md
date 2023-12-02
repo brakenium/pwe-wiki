@@ -28,3 +28,24 @@ of the script and might be fixed in the future by editing the messages instead.
 
 Just check out the structure of the [wiki](wiki) folder to get a better idea
 of how this tool works.
+
+## Technical details
+
+The wiki is deployed using [wiki_to_discord.ts](wiki_to_discord.ts). This
+script is written in TypeScript and uses the [discord.js](https://discord.js.org)
+library to interact with Discord. The script is run using bun and GitHub Actions
+are used to automatically deploy the wiki whenever a push is made to the main
+branch.
+
+In order to run this script, you will need to create a Discord bot and add it
+to your server. You will also need to install bun and run `bun install` in the
+root of this repository.
+
+Since there already exist many guides on how to create a Discord bot, I will
+not go into detail on how to do this. However, once you have created a bot,
+you will need to add it to your server. You will also need the server's guild ID.
+
+Finally you will be able to run the script using
+`bun run wiki_to_discord.ts --discordtoken <discord bot token> --guildId <guildId>`.
+You can also install `act` to run the script locally using GitHub Actions.
+To do this you will need to provide act your discord bot token as a secret.
