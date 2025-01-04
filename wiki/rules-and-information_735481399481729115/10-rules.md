@@ -1,6 +1,4 @@
---------------------------------
-***RULES OF THE SERVER***
---------------------------------
+# RULES OF THE SERVER
 
 **1. Keep it clean**
 No offensive, demeaning, or vulgar language. No racial, gender, political, or religious slurs. We are a friendly community, if you need to vent off do it elsewhere.
