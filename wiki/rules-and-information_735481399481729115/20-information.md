@@ -3,8 +3,6 @@
 ---------------------
 
 ***Channel information***
-<#735493397485322272> schedule will show you what's oncoming on what day **of the current week.**
-<#740270040892571738> keeps a track of the amount of players online in a server and continent.
 <#735520870910394532> suggestions is where you can write down ideas for this server, so we can always keep improving.
 
 ***General information***
