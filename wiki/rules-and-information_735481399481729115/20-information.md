@@ -23,7 +23,7 @@
 **Game Updates:** To see and occasionally get pinged by @Vanu's Enlightenment#8466 bot to see the latest news and updates coming in the game. This'll be shown in the #game-updates channel.
 
 ***Teamspeak information***
-We are currently using: ts3.thevcbc.com
+We are currently using: millerts.thevcbc.com
 
 ***Discord Server invite link***
 https://discord.gg/Frhe9rs
