@@ -1,6 +1,6 @@
-# Wiki source for VCBC
+# Wiki source for PWE
 
-This repository contains the markdown source for the VCBC wiki. The wiki is
+This repository contains the markdown source for the PWE wiki. The wiki is
 hosted on Discord and deployed using [wiki_to_discord.ts](wiki_to_discord.ts).
 This allows multiple people to edit the wiki at the same time, and allows
 version control.

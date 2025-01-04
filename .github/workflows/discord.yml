@@ -35,4 +35,4 @@ jobs:
       - name: Execute
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        run: bun wiki_to_discord.ts --discordtoken $DISCORD_TOKEN --guildId '683284384429899806'
+        run: bun wiki_to_discord.ts --discordtoken $DISCORD_TOKEN --guildId '735128468068761621'
